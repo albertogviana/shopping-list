@@ -1,0 +1,5 @@
+@CHARSET "UTF-8";
+
+.topcoat-navigation-bar {
+    z-index: 10;
+}
